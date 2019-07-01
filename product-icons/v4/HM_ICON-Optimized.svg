@@ -1,0 +1,35 @@
+<svg id="right-eye" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #36b007;
+      }
+
+      .cls-2 {
+        fill: #b4e266;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #b25326;
+      }
+
+      .cls-5 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="512" height="515"/>
+  <circle class="cls-2" cx="255.5" cy="256.5" r="226.5"/>
+  <circle class="cls-3" cx="255" cy="256" r="193"/>
+  <ellipse id="hair" cx="256" cy="249" rx="154" ry="135"/>
+  <circle id="face" class="cls-4" cx="256.5" cy="289.5" r="121.5"/>
+  <path id="mouth" class="cls-5" d="M179,334s0.435,0.539,1.28,1.489C190.074,346.5,254.889,412.745,334,334"/>
+  <ellipse id="eye" class="cls-3" cx="313.5" cy="272.5" rx="38.5" ry="23.5"/>
+  <ellipse id="pupil" cx="313" cy="272.5" rx="22" ry="23.5"/>
+  <ellipse id="eye-2" data-name="eye" class="cls-3" cx="195.5" cy="272.5" rx="38.5" ry="23.5"/>
+  <ellipse id="pupil-2" data-name="pupil" cx="195" cy="272.5" rx="22" ry="23.5"/>
+</svg>
